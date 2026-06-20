@@ -1,5 +1,3 @@
 # Notes from kurrosetra
 
-this is notes from collab
-
-this update by kurrosetra
+now the collab make some changes after branch rule set
